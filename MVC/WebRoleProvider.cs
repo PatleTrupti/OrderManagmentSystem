@@ -45,7 +45,6 @@ namespace MVC
         {
             throw new NotImplementedException();
         }
-
         public override string[] GetRolesForUser(string username)
         {
             string[] sRoles;
